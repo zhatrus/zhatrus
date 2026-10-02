@@ -1,97 +1,49 @@
-<h1 align="center">👋 Привіт, я Захар</h1>
-<h3 align="center">Automation & Telegram Bot Developer | Google Workspace Expert</h3>
+<h1 align="center">👋 Привіт, я Захар Хатрус</h1>
+<h3 align="center">Ментор першого кроку · автоматизація і ШІ, які реально працюють</h3>
 
 <p align="center">
-  <a href="https://github.com/KhatrusZakhar?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Мої%20проєкти-181717?style=for-the-badge&logo=repo&logoColor=white">
-  </a>
-  <a href="https://t.me/zhatrus">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+  <a href="https://www.youtube.com/@redsneakersproduction"><img src="https://img.shields.io/badge/YouTube-Red_Sneakers_Production-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://t.me/zhatrus"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/zhatrus?tab=repositories"><img src="https://img.shields.io/badge/Проєкти-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<p align="center">
-  🇬🇧 <a href="https://github.com/zhatrus/about_me_en/blob/main/README.md#-hi-im-zakhar">Switch to English</a>
-</p>
+<p align="center">🇬🇧 <a href="https://github.com/zhatrus/about_me_en/blob/main/README.md#-hi-im-zakhar">Switch to English</a></p>
 
 ---
 
-### 🧠 Спеціалізація
-- Розробка **Telegram-ботів** будь-якої складності  
-- **Автоматизація бізнес-процесів** (Google Workspace, n8n, API)  
-- **Інтеграція з Google Таблицями**, базами даних та зовнішніми сервісами  
-- **AI-рішення** для аналітики, текстів і взаємодії з користувачами  
+### 🧭 Чим займаюсь
+Стартую в незнайомих напрямках і доводжу їх до робочого результату. Потім показую іншим, як зробити перший крок, насамперед з ШІ.
+
+- **Цифрові інструменти для гуманітарного фонду**: реєстри послуг, обробка документів, автоматизація звітності
+- **Автоматизація і інтеграції**: `n8n`, API, CRM, телефонія, Telegram-боти
+- **Локальний ШІ**: розпізнавання і синтез мови, генерація зображень на власному залізі, без хмари
+- **Навчання**: курси з ШІ і цифрової безпеки для колег і команд
+
+### 🔧 Принцип
+Показую тільки те, що сам встановив і використав. Встановив, спробував, показую результат.
 
 ---
 
-### ⚙️ Основні технології
-#### 💻 Мови та скрипти
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### 📂 Відкриті проєкти
+| Проєкт | Що робить |
+|---|---|
+| [audio-transcribe-api](https://github.com/zhatrus/audio-transcribe-api) | Self-hosted API транскрибації з розділенням спікерів (`faster-whisper` + `pyannote`) |
+| [voice-tts](https://github.com/zhatrus/voice-tts) | Self-hosted український TTS: готові голоси і клонування (`StyleTTS2 Ukrainian`) |
+| [loe-watcher](https://github.com/zhatrus/loe-watcher) | Монітор графіка відключень світла (Львівобленерго) |
 
-#### ⚙️ Автоматизація та інтеграції
+---
+
+### ⚙️ Стек
+![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white)
-![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?logo=google-sheets&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-8A2BE2?logo=make&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?logo=telegram&logoColor=white)
 
-#### 🤖 Мовні моделі та AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Claude.ai](https://img.shields.io/badge/Claude.ai-000000?logo=anthropic&logoColor=white)
-![Qwen.ai](https://img.shields.io/badge/Qwen.ai-0066FF?logo=alibaba-cloud&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-FF3366?logo=ai&logoColor=white)
-![Perplexity.ai](https://img.shields.io/badge/Perplexity.ai-00B2FF?logo=ai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-AE00FF?logo=openai&logoColor=white)
-
-#### ☁️ Сервери та DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Timeshift](https://img.shields.io/badge/Timeshift-555555?logo=linux&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)
-![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?logo=adguard&logoColor=white)
-
-#### 🧰 Інструменти розробки
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF8C00?logo=ai&logoColor=white)
-
 ---
 
-### 📊 Досвід роботи
-- **3+ роки досвіду** у створенні Telegram-ботів та систем автоматизації  
-- Розробка рішень для **логістики, торгівлі, виробництва, сервісів**  
-- Інтеграція **Google Sheets + API + n8n + Docker** у єдину екосистему  
-- Оптимізація процесів: звітність, CRM-логіка, сповіщення, AI-підказки  
-
----
-
-### 🧩 Підхід до роботи
-- ✅ Чітке технічне завдання перед стартом  
-- 🔁 Постійна комунікація під час реалізації  
-- ⏱ Виконання в терміни + підтримка після здачі  
-- 🧠 Орієнтація на результат і зручність користувача  
-
----
-
-### 💬 Мови
-- 🇺🇦 **Українська** — рідна  
-- 🇬🇧 **Англійська** — B1 (Intermediate)
-
----
-
-### 💡 Мотто
-> “Я автоматизую все, що можна автоматизувати — щоб люди мали більше часу на головне.”
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/Automation-FFB000?style=for-the-badge&logo=zapier&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Freelance-00A99D?style=for-the-badge&logo=freelancer&logoColor=white">
-</p>
+> «Працюй так, щоб коли постукають у двері, ти знав: це прийшли за порадою, а не за тобою.»
